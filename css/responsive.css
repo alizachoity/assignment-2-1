@@ -1,0 +1,355 @@
+@media screen and (max-width: 500px){
+   
+    .nav-main{    
+        max-width: 100%;
+        max-height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+         /* border: 2px solid red;    */
+      }
+      .navwap{
+        background-color:#111111 ;
+        max-width: 100%;
+        max-height: 100%;
+        /* border: 2px solid red; */
+        margin-top:0px ;  
+        padding: 2px;
+        text-align: center;
+        display: flex ;
+        flex-direction: column;
+      }
+    
+      .nav-main-1{
+        color: #E6533C;    
+        margin-right: 320px;   
+      }  
+      .nav-main-2{
+       display: none;
+      }
+      .solid{
+        display: block;
+        
+       
+        color: white;    
+      }
+      .banner{
+        color: white;
+        display:flex;
+        flex-direction: column;  
+        justify-content:space-between;
+        max-width: 90%;
+        max-height: 100%;  
+        margin: 0 auto;     
+        /* border: 2px solid red;  */
+      }
+      .banner1{
+        /* ; */
+        display:flex;
+        flex-direction: column;  
+        max-width:90%;
+        max-height: 50%;
+        text-align:start ;  
+      }
+      .banner2{
+        max-width:100%;
+        max-height: 50%;
+        /* border: 2px solid red;  */
+      }
+      .banbtn{
+        /* border: 2px solid red; */
+        margin-top:3%;
+        max-width: 100%;
+        display: flex;
+        flex-direction: row;  
+      }
+      .joinbtn{
+        /* border: 2px solid red; */
+        padding-left: 30px;
+        height: 2%;   
+        padding-right: 30px;
+        margin-top: 10px;
+        margin-right: 10px; 
+        border-radius: 20px;
+      }
+      .banbtn2{
+        padding-left: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 50px; 
+        border-radius: 20px;
+        background-color:black ;
+        color: white;
+        border:1px ridge #c8c6c4;
+        margin-top:3%;
+      }
+      .banimg{
+        width: 100%;
+        height: 100%;
+      }
+      .fiftyplus{
+        background-color: #36312b ;
+        position: absolute;
+        top: 40%;
+        left: 60%;
+        border-radius: 15px;
+        width: 30%;
+        height: 7%;
+      }
+      .thirtyplus{
+        background-color: #36312b ;
+        position: absolute;
+        top: 70%;
+        left: 5%;
+        border-radius: 15px;
+        width: 30%;
+        height: 7%;
+      }
+      .red{
+        /* border: 2px solid red;   */
+        height: 30%;
+        position: absolute;
+        width:5%;
+        top: 72%;
+        left: 6%;
+      }
+      .play{
+        /* border: 2px solid red; */
+        height: 50%;
+        display: none;
+      }
+      .circle{
+        /* border: 2px solid red; */
+        height: 50%;
+        text-align:start;
+      }
+      /* bannerend */
+      .Habits{
+        /* border: 2px solid red; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        max-width: 90%;
+        max-height: 100%;
+        margin: 0 auto;
+        margin-top: 30px;
+      }
+      .Habits2{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top:20px ;
+        /* border: 2px solid red; */
+        max-width: 100%;
+      }
+      .Habits2_1{
+        /* border: 2px solid red; */
+        max-width: 100%;
+        margin-bottom: 20px;
+      }
+      .Habits2_2{
+        /* border: 2px solid red; */
+        max-width: 100%;
+        margin-bottom: 20px;
+      }
+      .Habits2_3{
+        /* border: 2px solid red; */
+        max-width: 100%;
+        margin-bottom: 20px;
+      }
+      .Habits2_4{
+        /* border: 2px solid red; */
+        max-width: 100%;
+        margin-bottom: 20px;
+      }
+      /* habitsend */
+      .run{
+        display: flex;
+        flex-direction:column;
+        justify-content: space-between;
+        border-radius: 15px;
+        background-color: #222222;
+        max-height: 100%;
+        max-width: 90%;
+        margin: 0 auto;  
+        margin-top:30px ;
+        /* border: 2px solid red; */
+        text-align: center;
+      }
+      .run1{
+        display: flex;
+        flex-direction: column;     
+        /* border: 2px solid red; */
+        max-width: 100%;  
+      }
+      .run2{
+        /* border: 2px solid red; */
+        max-width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        border-radius: 15px;
+      }
+      .runimg{
+        border-radius: 16px;
+        text-align: center;
+        width: 80%;
+        height: 100%;
+        
+      }
+      /* runend   */
+      .bmica{
+        display: flex;
+        flex-direction: column;
+        background-color: #222222;
+        margin-top:30px ;
+        max-width: 100%;
+        max-height: 100%;
+        /* border: 2px solid red; */
+      }
+      .bmical{
+        margin: 0 auto;
+        /* border: 2px solid red; */
+        max-width:90%;
+        max-height: 100%;
+        display: flex;
+        flex-direction:column;
+        justify-content: space-between;
+      }
+      .bmical2{
+        margin-top: 30px;
+      }
+      .fa-chevron-down{
+       margin-left: 50%;
+      }
+      /* bmicalculaterend */
+      .traineimg{
+        margin-top:10px ;
+        display: flex;
+        flex-direction: column;    
+        background-color: #222222;
+       margin-right:50px;
+        border-radius: 15px; 
+        /* border: 2px solid red; */
+        max-width: 100%;
+        max-height: 100%;
+      }
+    .trainer1{
+      max-width: 100%;
+      max-height: 100%;
+    }
+    .traineimg1{  
+      border-radius: 15px;
+      /* border: 2px solid red; */
+      max-height: 80%;
+      max-width: 100%;
+    }
+    .traineimg{
+     
+      justify-content: center;
+      border-radius: 15px; 
+      /* border: 2px solid red; */
+      padding: 3px ; 
+      max-width: 100%;
+      margin: 0 auto;
+    }
+    .traineimg2{
+     /* border: 2px solid red; */
+      background-color: #222222; 
+      max-width: 90%;
+      max-height: 30%;
+      margin-left: 20px;
+    }
+    .trainer1{
+      /* border: 2px solid red; */
+      border-radius: 15px;
+      text-align: center;
+      max-width: 100%;  
+    }
+    .trainer2{
+      position:absolute;
+      left: 60px;
+      top:3500px;
+    }
+    .trainer3{
+      position:absolute;
+      left: 60px;
+      top:3830px;
+    }
+    .trainer4{
+      position:absolute;
+      left: 60px;
+      top:4230px;
+    }
+    .trainer5{
+      position:absolute;
+      left: 60px;
+      top:4470px;
+    }
+    .trainer6{
+      position:absolute;
+      left: 60px;
+      top:4850px;
+    }
+    .trainer7{
+      position:absolute;
+      left: 60px;
+      top:5200px;
+    }
+    
+    
+    
+    
+    /* traineend */
+    .fter{
+      display: flex;
+      justify-content:start;
+      flex-direction: column;  
+      max-height: 100%;  
+      background-color: #222222;  
+      /* border: 2px solid red;  */
+      max-width: 100%; 
+    }
+    .fter1{
+      display: flex;
+      flex-direction: column;  
+      /* border: 2px solid red; */
+      max-width: 100%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 0px; 
+    }
+    .fter1_1{
+      /* border: 2px solid red; */
+      display: flex;
+      justify-content:space-between;
+      flex-direction: column;
+      max-width: 100%; 
+      margin-bottom: 5px;
+    }
+    .fter1_1_1{
+      max-width: 100%;
+      /* border: 2px solid red; */
+      margin-bottom: 15px;
+    }
+    .get{
+      /* border: 2px solid red; */
+      max-width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: start;
+      text-align: start;
+      margin-left: 0px; 
+      margin-bottom: 15px;
+    }
+    .fter1_2{
+      /* border: 2px solid red; */
+      max-width: 100%;
+    }
+    .fter1_2_1{
+      text-align: center;
+      margin-top: 10px;
+      max-width: 100%;
+      margin-top: 5px;
+      margin-bottom: 15px;
+    }
+    }
